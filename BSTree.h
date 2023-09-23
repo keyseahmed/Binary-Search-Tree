@@ -22,6 +22,8 @@ public:
 	bool search(int value);
 
 	void inOrderTraversal();
+
+	void remove(int value);
 };
 
 #endif
